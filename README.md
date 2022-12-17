@@ -1,4 +1,4 @@
-### Hi there
+<p align="center"><img src=https://github.com/dajtainton/dajtainton/blob/main/cover-image.png" width="900" height="300"  /></p>
 
 ## 👨‍💻 About Me
 
