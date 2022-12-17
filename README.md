@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a fullstack developer specializing in PHP, Laravel and Magento 2. I have a passion for building high-quality web applications that are both functional and visually appealing.
+I'm a fullstack developer specializing in PHP, Laravel and Magento 2. I have a passion for building high-quality web applications that are functional, performant and aesthetically pleasing.
 
 With years of experience in the industry, I have a strong understanding of the full web development process, including design, development, testing, and deployment. I am always looking for ways to improve my skills and stay up-to-date with the latest technologies.
 
