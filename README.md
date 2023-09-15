@@ -49,6 +49,8 @@ I'm excited to bring my skills and expertise to new projects and collaborations.
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
+![cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
 
 ## 🔗 Links
 
